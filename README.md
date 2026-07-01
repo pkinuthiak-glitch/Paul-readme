@@ -18,7 +18,7 @@ This repository serves as a collection of README files created for various proje
 
 A comprehensive R-based analysis of historical air quality data from 2015–2025 for five major Canadian cities: Toronto, Vancouver, Montreal, Calgary, and Halifax.
 
-- **Repository:** [air-quality-canada](https://github.com/pkinuthiak-glitch/air-quality-canada)
+- **Repository:** [air-quality-canada](https://github.com/pkinuthiak-glitch/markdown-buddy-Paul_Kuguru)
 - **Status:** ✅ Active
 - **Technologies:** R, tidyverse, RMarkdown
 
